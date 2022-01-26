@@ -1,0 +1,229 @@
+    1 
+    2  pwd
+    3  sudo su -
+    4  
+    5  ll
+    6  ls
+    7  pwd
+    8  clear
+    9  python3 --version
+   10  git -version
+   11  git--version
+   12  git --version
+   13  clear
+   14  mozilla
+   15  wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+   16  wget -O-  https://dl.google.com/linux/linux_signing_key.pub | gpg --dearmor | sudo tee /usr/share/keyrings/Google-archive-keyring.gpg
+   17  sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+   18  sudo apt update
+   19  clear
+   20  sudo apt install google-chrome-stable
+   21  clear
+   22  chrome
+   23  google-chrome
+   24  history
+   25  clear
+   26  ssh -X kali@ec2-3-88-225-180.compute-1.amazonaws.com
+   27  clear
+   28  google-chrome
+   29  google-chrome --version
+   30  whereis google-chrome
+   31  /usr/bin/google-chrome
+   32  google-chrome www.google.com
+   33  sudo su -
+   34  logout
+   35  clear
+   36  git --verison
+   37  clear
+   38  pwd
+   39  lsb_release -a
+   40  clear
+   41  lsb_release -a
+   42  sudo apt update
+   43  clear
+   44  git --verison
+   45  git --version
+   46  clear
+   47  python3 --version
+   48  clear
+   49  git config --global user.name "Shahpar Islam"
+   50  git config --global user.email "si2382@email.vccs.edu"
+   51  git config --global color.ui auto
+   52  clear
+   53  pwd
+   54  mkdir ITP270
+   55  ls
+   56  cd ITP270
+   57  clear
+   58  git init
+   59  clear
+   60  git clone Islam-shahpar/2.-CLI-Scripting
+   61  git@github.com:Islam-shahpar/2.-CLI-Scripting.git
+   62  git clone https://github.com/Islam-shahpar/2.-CLI-Scripting.git
+   63  clear
+   64  ls
+   65  cd 2.-CLI-Scripting
+   66  git status
+   67  clear
+   68  git status
+   69  clear
+   70  ls
+   71  nano userInput.py
+   72  touch userInput.py
+   73  nano userInput.py
+   74  cat userInput.py
+   75  clear
+   76  python3 userInput.py
+   77  clear
+   78  nano userInput.py
+   79  python3 userInput.py
+   80  ll
+   81  chmod +x userInput.py
+   82  ./userInput.py
+   83  clear
+   84  nano userInput.py
+   85  ./userInput.py
+   86  nano userInput.py
+   87  ./userInput.py
+   88  clear
+   89  nano userInput.py
+   90  ./userInput.py
+   91  nano userInput.py
+   92  ./userInput.py
+   93  clear
+   94  nano userInput.py
+   95  ./userInput.py
+   96  clear
+   97  git status
+   98  git add userInput.py
+   99  git status
+  100  clear
+  101  git commit -m "New file user input has been added"
+  102  git push
+  103  clear
+  104  git log
+  105  clear
+  106  git status
+  107  git pull
+  108  git sta
+  109  git status
+  110  clear
+  111  ls
+  112  nano newPracticeFile.py
+  113  git branch newBranch
+  114  sit status
+  115  clear
+  116  git status
+  117  git checkout newBranch
+  118  git status
+  119  nano newBranchCode.py
+  120  ls
+  121  git status
+  122  clear
+  123  git add -A
+  124  git commit -m "New file added into the new branch"
+  125  git push 
+  126  git push --set-upstream origin newBranch
+  127  clear
+  128  git status
+  129  git merge newBranch
+  130  git checkout master
+  131  git status
+  132  clear
+  133  history
+  134  history > git_commands.txt
+  135  ls
+  136  cat git_commands.txt
+  137  clear
+  138  git --version
+  139  python --version
+  140  python3 --version
+  141  clear
+  142  ls
+  143  pwd
+  144  clear
+  145  ls
+  146  clear
+  147  pwd
+  148  ll
+  149  clear
+  150  exit
+  151  clear
+  152  lsb_release -a
+  153  sudo apt update
+  154  clear
+  155  python3 --version
+  156  git --version
+  157  clear
+  158  git config --global user.name "Shahpar Islam"
+  159  git config --global user.email "si2382@email.vccs.edu"
+  160  git config --global color.ui auto
+  161  pwd
+  162  ll
+  163  ls
+  164  clear
+  165  ll
+  166  mkdir ITP270Lecture
+  167  ls
+  168  cd ITP270Lecture
+  169  ls
+  170  clear
+  171  nano ITP270Lecture2.py
+  172  touch justAFile.py
+  173  ls
+  174  cat justAFile.py
+  175  nano ITP270Lecture2.py
+  176  clear
+  177  cat ITP270Lecture2.py
+  178  python3 ITP270Lecture2.py
+  179  clear
+  180  python3 ITP270Lecture2.py
+  181  nano ITP270Lecture2.py
+  182  git init
+  183  clear
+  184  ls
+  185  cd ..
+  186  clear
+  187  ls
+  188  pwd
+  189  clear
+  190  git clone https://github.com/yu-shahpar/ITP270-Shahpar.git
+  191  ls
+  192  cd ITP270
+  193  pwd
+  194  cd ..
+  195  pwd
+  196  clear
+  197  ls
+  198  cd ITP270Lecture
+  199  ls
+  200  cat ITP270Lecture2.py
+  201  clear
+  202  ls
+  203  help cp
+  204  man cp
+  205  clear
+  206  ls
+  207  cp ITP270Lecture2.py ~/ITP270-Shahpar/
+  208  ls
+  209  cd ..
+  210  ls
+  211  cd ITP270-Shahpar
+  212  ls
+  213  cd ..
+  214  pwd
+  215  clear
+  216  ls
+  217  cd ITP270-Shahpar
+  218  ls
+  219  git status
+  220  clear
+  221  git add -A
+  222  git status
+  223  git commit -m "Adding the file ITP270Lecture2.py"
+  224  git status
+  225  clear
+  226  git push
+  227  clear
+  228  history
+  229  clear
