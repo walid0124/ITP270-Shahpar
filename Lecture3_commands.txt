@@ -1,4 +1,4 @@
-    1  clear
+    1 
     2  pwd
     3  sudo su -
     4  clear
